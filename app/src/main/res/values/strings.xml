@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlanApp</string>
+    <string name="edit_button_description">Rediger</string>
+    <string name="delete_button_description">Slett</string>
+    <string name="friend_name">Navn: %1$s</string>
+    <string name="appointment_date">Dato: %1$s</string>
+    <string name="appointment_time">Tid: %1$s</string>
+    <string name="appointment_location">Sted: %1$s</string>
+    <string name="appointment_note">Notat: %1$s</string>
+    <string name="appointment_reminder">Påminnelse: %1$s</string>
+</resources>

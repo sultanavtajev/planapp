@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="sms_service"
+        android:title="Aktiver SMS-tjeneste"
+        android:defaultValue="false"
+        android:summary="Slå på/av SMS-tjenesten"/>
+
+    <Preference
+        android:key="sms_time"
+        android:title="Tidspunkt for SMS"
+        android:summary="Velg tidspunkt for når SMS skal sendes"/>
+
+    <EditTextPreference
+        android:key="default_sms_message"
+        android:title="Standard SMS-melding"
+        android:inputType="text"
+        android:defaultValue="Påminnelse: Du har en avtale"
+        android:summary="Standard melding som skal sendes i SMS"/>
+</PreferenceScreen>
