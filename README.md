@@ -1,4 +1,4 @@
-PlanApp
+PlanApp Android App
 
 PlanApp er designet for å hjelpe brukere med å holde styr på sine avtaler, samtidig som den gir muligheten til å 
 sende automatiske påminnelser til venner, familie eller kollegaer.
